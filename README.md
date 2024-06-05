@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**liviap2/liviap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é livia
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você entrar em contato comigo📫
+
+ 00001115411354sp@al.educacao.sp.gov.br
+
+ @1115411354sp
+
+![](https://media.tenor.com/CcYu_oQkBl4AAAAi/love-you-lalisa.gif)
